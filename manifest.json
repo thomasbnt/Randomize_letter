@@ -1,0 +1,28 @@
+{
+    "name": "Randomize_letter",
+    "short_name": "R(Letter)",
+    "description": "It's just a randomizer of letters.",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#D43F30",
+    "theme_color": "#D43F30",
+    "homepage_url": "https://thomasbnt.github.io/Randomize_letter/",
+    "icons": [
+        {
+            "src": "assets/img/manifest/192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/img/manifest/128x128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/img/manifest/512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
