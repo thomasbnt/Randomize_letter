@@ -5,7 +5,7 @@
     "start_url": "./index.html",
     "display": "standalone",
     "orientation": "portrait",
-    "background_color": "#D43F30",
+    "background_color": "#fdfdfd",
     "theme_color": "#D43F30",
     "homepage_url": "https://thomasbnt.github.io/Randomize_letter/",
     "icons": [
