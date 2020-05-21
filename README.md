@@ -1,6 +1,6 @@
-[![Patreon support](https://img.shields.io/endpoint.svg?url=https://shieldsio-patreon.herokuapp.com/thomasbnt&style=flat-square)](https://www.patreon.com/thomasbnt)
-[![Follow me on Twitter](https://flat.badgen.net/badge/Follow%20Me/@Hyprimort/33A1F2?icon=twitter)](https://twitter.com/Hyprimort)
-[![GNU GPL v3.0](https://flat.badgen.net/github/license/thomasbnt/Randomize_letter)](LICENSE)
+[![Discord](https://img.shields.io/discord/367753345575944221?color=%237289DA&label=Join%20us&logo=Discord&logoColor=white&style=for-the-badge)](https://thomasbnt.fr/discord) 
+[![Support me on BMC](https://img.shields.io/badge/Support-Buy%20Me%20A%20Coffee-orange.svg?style=for-the-badge)](https://www.buymeacoffee.com/thomasbnt) 
+[![Twitter Follow](https://img.shields.io/twitter/follow/Thomasbnt_?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/Thomasbnt_)
 
 ## I Integrations
 
@@ -36,6 +36,6 @@ Please ensure that your pull request complies with the following guidelines:
 
 Thank you for your suggestions!
 
-- 📣  News : Follow me on [Twitter](https://twitter.com/Hyprimort)
+- 📣  News : Follow me on [Twitter](https://twitter.com/Thomasbnt_)
 - 📕  Under [GNU GPL v3.0](LICENSE)
 - 🔗  Visit my [Website](https://thomasbnt.fr)
